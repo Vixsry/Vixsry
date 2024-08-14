@@ -2,12 +2,12 @@
 #include <BlynkSimpleEsp8266.h>
 
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPL6SbCuokbI"
+#define BLYNK_TEMPLATE_ID "ID"
 #define BLYNK_TEMPLATE_NAME "Smart Light"
-#define BLYNK_AUTH_TOKEN "1pkP3rJSES7wrrIQ3jf__Eb7zUPIReZ1"
+#define BLYNK_AUTH_TOKEN "AUTH TOKEN"
 
-char ssid[] = "Vixsry";
-char pass[] = "Bitcoin123";
+char ssid[] = "SSID";
+char pass[] = "PASS";
 
 int relayPins[] = {D1, D2, D3, D4, D5, D6, D7, D8};
 
