@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Vixsry!
 
 ### 🌐 About Me
-Hello! I am a passionate web developer and an expert in creating beautiful and functional websites. In addition, I also have expertise in the -**Internet of Things (IoT) and blockchain developer**, which allows me to integrate smart solutions into my projects. I love the challenge of turning complex problems into simple, interesting and amazing solutions.
+Hello! I am a passionate web developer and an expert in creating beautiful and functional websites. In addition, I also have expertise in the -**Internet of Things (IoT) and Blockchain developer**, which allows me to integrate smart solutions into my projects. I love the challenge of turning complex problems into simple, interesting and amazing solutions.
 
 ### 💡 Interests
 - **Blockchain & Cryptocurrency**: Constantly researching and exploring new developments in blockchain technology.
