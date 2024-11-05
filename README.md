@@ -20,7 +20,7 @@ I'm open to collaborations in:
 - **IoT Solutions**: Especially in eco-friendly or green technology implementations
 
 ### 📫 Get in Touch
-You can reach me at **[mailto:Viksry@proton.me](mailto:Viksry@proton.me)** or connect with me on [LinkedIn](#).
+You can reach me at **[mailto:viksry@proton.me](mailto:viksry@proton.me)** or connect with me on [LinkedIn](#).
 
 ### ⚡ Fun Fact
 I love combining technology with sustainability – finding ways to leverage IoT to create a greener future.
