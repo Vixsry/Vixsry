@@ -85,7 +85,7 @@ I am a passionate web developer skilled in creating beautiful and functional web
 ---
 <div align="center">
 
-[![GitHub](https://img.shields.io/github/followers/Vixsry?label=Follow&style=social)](https://github.com/YourGitHubUsername)
+[![GitHub](https://img.shields.io/github/followers/Vixsry?label=Follow&style=social)](https://github.com/Vixsry)
 
 </div>
 
