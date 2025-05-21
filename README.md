@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-aqua?style=for-the-badge&logoColor=black" alt="Open Source Badge"/>
 </p>
 
-### 💻 Software and Tools
+### 💻 SOFWARE AND TOOLS
 
 <p>
     <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
