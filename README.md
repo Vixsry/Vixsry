@@ -77,7 +77,7 @@ I am a passionate web developer skilled in creating beautiful and functional web
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-WEBSITE-aqua?style=for-the-badge&logoColor=black)](https://vixsry.github.io/portfolio/)
-[![Projects](https://img.shields.io/badge/GITHUB-PROJECTS-black?style=for-the-badge&logoColor=aqua)](https://github.com/Vixsry?tab=repositories)
+[![Projects](https://img.shields.io/badge/GITHUB-PROJECTS-black?style=for-the-badge&logoColor=aqua)](https://viksry.my.id?tab=repositories)
 
 </div>
 
