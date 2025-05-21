@@ -4,6 +4,20 @@
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-aqua?style=for-the-badge&logoColor=black" alt="Open Source Badge"/>
 </p>
 
+### 💻 Software and Tools
+
+<p>
+    <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
+    <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white">
+    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF.svg?logo=adobe%20photoshop&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</p>
+
 ## 💻 Tech Stack
 
 <div align="center">
