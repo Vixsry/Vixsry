@@ -4,12 +4,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-aqua?style=for-the-badge&logoColor=black" alt="Open Source Badge"/>
 </p>
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=aqua&style=flat)
-
-</div>
-
 ## 💻 Tech Stack
 
 <div align="center">
