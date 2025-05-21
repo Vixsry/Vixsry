@@ -10,6 +10,14 @@
 
 </div>
 
+## 💻 Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,java,docker,kubernetes,aws)](https://skillicons.dev)
+
+</div>
+
 ---
 ## 👨‍💻 About Me
 I am a passionate web developer skilled in creating beautiful and functional websites. Additionally, I have expertise in the fields of Internet of Things (IoT) and Blockchain, enabling me to integrate smart solutions into my projects. I enjoy the challenge of transforming complex problems into simple, engaging, and intuitive solutions.
