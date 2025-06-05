@@ -28,26 +28,6 @@
 
 ---
 
-## 🛠️ Technical Skills
-<div align="center">
-
-[![Web Dev](https://img.shields.io/badge/WEB-DEVELOPMENT-aqua?style=for-the-badge&logoColor=black)](#-)
-[![IoT](https://img.shields.io/badge/INTERNET-OF%20THINGS-black?style=for-the-badge&logoColor=aqua)](#-)
-[![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-DEVELOPMENT-aqua?style=for-the-badge&logoColor=black)](#-)
-
-</div>
-
----
-## 💼 Professional Focus
-<div align="center">
-
-[![Frontend](https://img.shields.io/badge/Frontend-Development-aqua?style=flat-square&logoColor=black)](#-)
-[![IoT Solutions](https://img.shields.io/badge/IoT-Solutions-black?style=flat-square&logoColor=aqua)](#-)
-[![Smart Contracts](https://img.shields.io/badge/Smart-Contracts-aqua?style=flat-square&logoColor=black)](#-)
-
-</div>
-
----
 ## 🌟 Areas of Expertise
 - Web Application Development
 - IoT System Integration
