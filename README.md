@@ -28,7 +28,7 @@
 
 ---
 ## 👨‍💻 About Me
-I am a passionate web developer skilled in creating beautiful and functional websites. Additionally, I have expertise in the fields of Internet of Things (IoT) and Blockchain, enabling me to integrate smart solutions into my projects. I enjoy the challenge of transforming complex problems into simple, engaging, and intuitive solutions.
+I am a passionate developer skilled and finance. Additionally, I have expertise in the fields of Internet of Things (IoT) and Blockchain, enabling me to integrate smart solutions into my projects. I enjoy the challenge of transforming complex problems into simple, engaging, and intuitive solutions.
 
 ---
 ## 🛠️ Technical Skills
