@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color: aqua">Web Developer</span> & IoT Specialist</h1>
+<h1 align="center"><span style="color: aqua"> Developer</span> & IoT Specialist</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-aqua?style=for-the-badge&logoColor=black" alt="Open Source Badge"/>
