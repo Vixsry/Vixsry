@@ -28,15 +28,6 @@
 
 ---
 
-## 🌟 Areas of Expertise
-- Web Application Development
-- IoT System Integration
-- Blockchain Solutions
-- Smart Contract Development
-- UI/UX Design
-- System Architecture
-
----
 ## 📱 Connect With Me
 <div align="center">
   
