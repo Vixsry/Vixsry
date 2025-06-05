@@ -1,4 +1,4 @@
-<h1 align="center"><span style="color: aqua"> Developer</span> & IoT Specialist</h1>
+<h1 align="center"><span style="color: aqua"> Developer</span> & Finance</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-aqua?style=for-the-badge&logoColor=black" alt="Open Source Badge"/>
@@ -27,10 +27,7 @@
 </div>
 
 ---
-## 👨‍💻 About Me
-I am a passionate developer skilled and finance. Additionally, I have expertise in the fields of Internet of Things (IoT) and Blockchain, enabling me to integrate smart solutions into my projects. I enjoy the challenge of transforming complex problems into simple, engaging, and intuitive solutions.
 
----
 ## 🛠️ Technical Skills
 <div align="center">
 
