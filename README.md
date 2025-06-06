@@ -58,15 +58,6 @@
 
 ---
 <div align="center">
-  
-<h3><span style="color: aqua">✨ "Transforming Ideas into Digital Reality" ✨</span></h3>
-
-[![Profile](https://img.shields.io/badge/Professional-Portfolio-aqua?style=for-the-badge&logoColor=black)](#-)
-
-</div>
-
----
-<div align="center">
 
 [![GitHub](https://img.shields.io/github/followers/Vixsry?label=Follow&style=social)](https://github.com/Vixsry)
 
