@@ -40,15 +40,6 @@
 </div>
 
 ---
-## 🌐 Portfolio & Projects
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-WEBSITE-aqua?style=for-the-badge&logoColor=black)](https://viksry.my.id)
-[![Projects](https://img.shields.io/badge/GITHUB-PROJECTS-black?style=for-the-badge&logoColor=aqua)](https://viksry.my.id?tab=repositories)
-
-</div>
-
----
 ## 📈 GitHub Stats
 <div align="center">
 
